@@ -1,9 +1,9 @@
 # Site Barbearia
 
 ## Tecnologias
-#### *HTML 
-#### *CSS
-#### *SASS
+####  HTML 
+####  CSS
+####  SASS
 
 #### Header com a apresentação do logo, rede social e botão de agendamento
 ![Captura de tela 2023-08-15 161530](https://github.com/Brucoutin/siteVenda/assets/97321917/9a8c7ed7-2841-4208-a46f-e3c797cb5d62)
