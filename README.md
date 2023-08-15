@@ -18,7 +18,7 @@
 ![Captura de tela 2023-08-15 161643](https://github.com/Brucoutin/siteVenda/assets/97321917/552c51bf-9989-4216-a097-935e2d522c60)
 
 ### Footer
-![Captura de tela 2023-08-15 161706](https://github.com/Brucoutin/siteVenda/assets/97321917/1d8c9fc8-470d-4ac0-9fbd-1b6038edf76b)
+![Captura de tela 2023-08-15 191703](https://github.com/Brucoutin/siteVenda/assets/97321917/eb6da815-a6e3-4e9b-a311-b47076b1b032)
 
 
 
