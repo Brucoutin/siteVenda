@@ -1,5 +1,5 @@
 # Site Barbearia
-
+#### Link de hospedagem: https://cool-pegasus-b3c319.netlify.app/
 ## Tecnologias
 ####  HTML 
 ####  CSS
